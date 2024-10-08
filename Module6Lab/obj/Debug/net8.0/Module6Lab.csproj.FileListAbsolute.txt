@@ -1,0 +1,15 @@
+/workspaces/Module6Lab/Module6Lab/obj/Debug/net8.0/Module6Lab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module6Lab/Module6Lab/obj/Debug/net8.0/Module6Lab.AssemblyInfoInputs.cache
+/workspaces/Module6Lab/Module6Lab/obj/Debug/net8.0/Module6Lab.AssemblyInfo.cs
+/workspaces/Module6Lab/Module6Lab/obj/Debug/net8.0/Module6Lab.csproj.CoreCompileInputs.cache
+/workspaces/Module6Lab/Module6Lab/obj/Debug/net8.0/Module6Lab.sourcelink.json
+/workspaces/Module6Lab/Module6Lab/bin/Debug/net8.0/Module6Lab
+/workspaces/Module6Lab/Module6Lab/bin/Debug/net8.0/Module6Lab.deps.json
+/workspaces/Module6Lab/Module6Lab/bin/Debug/net8.0/Module6Lab.runtimeconfig.json
+/workspaces/Module6Lab/Module6Lab/bin/Debug/net8.0/Module6Lab.dll
+/workspaces/Module6Lab/Module6Lab/bin/Debug/net8.0/Module6Lab.pdb
+/workspaces/Module6Lab/Module6Lab/obj/Debug/net8.0/Module6Lab.dll
+/workspaces/Module6Lab/Module6Lab/obj/Debug/net8.0/refint/Module6Lab.dll
+/workspaces/Module6Lab/Module6Lab/obj/Debug/net8.0/Module6Lab.pdb
+/workspaces/Module6Lab/Module6Lab/obj/Debug/net8.0/Module6Lab.genruntimeconfig.cache
+/workspaces/Module6Lab/Module6Lab/obj/Debug/net8.0/ref/Module6Lab.dll
